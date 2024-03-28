@@ -1,0 +1,31 @@
+.footer{
+    text-align: center;
+
+    margin-top: 200px;
+border-style: solid ;
+background-color: aliceblue;
+
+height: 300px;
+border: 2px snow;
+border-bottom-left-radius: 25px;
+border-top-right-radius: 25px;
+border-top-left-radius: 25px;
+border-bottom-right-radius: 25px;
+
+}
+body{
+    background-color: darkgoldenrod;
+    
+}
+.tribe{
+    margin-right: 500px;
+}
+button{
+
+}
+input{
+    border: 2px solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
