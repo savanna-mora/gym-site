@@ -8,12 +8,14 @@
 #pic{
     display: flex;
     justify-content: space-between;
+    background-color: white;
    
    
 }
 
 p1{
     padding-top: 20px;
+    
 }
 .picha{
     display:flex;
@@ -42,4 +44,9 @@ p2{
 
 p3{
     padding-top: 40px;
+
+}
+button{
+    display: flex;
+    text-align: center;
 }
