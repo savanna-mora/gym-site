@@ -1,0 +1,45 @@
+.p{
+    text-align: center;
+}
+
+
+
+
+#pic{
+    display: flex;
+    justify-content: space-between;
+   
+   
+}
+
+p1{
+    padding-top: 20px;
+}
+.picha{
+    display:flex;
+    flex-direction: column;
+
+}
+
+.picha1{
+    display: flex;
+    flex-direction: column;
+}
+
+.picha2{
+    display: flex;
+    flex-direction: column;
+}
+
+.picha3{
+    display: flex;
+    flex-direction: column;
+}
+
+p2{
+    padding-top: 80px;
+}
+
+p3{
+    padding-top: 40px;
+}
