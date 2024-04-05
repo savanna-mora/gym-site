@@ -1,0 +1,71 @@
+img{
+    width: 180px;
+    height: 120px;
+    /* padding: auto; */
+    padding-left: 200px;
+}
+#son{
+    padding-right: 900px;
+    padding-bottom: 20px;
+}
+#maya{
+    /* padding-right: 1500px; */
+    margin-left: 800px;
+}
+.maths{
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+    text-align:center;
+    padding-top: 20px;
+    /* padding-right: 900px; */
+    /* padding-bottom: 20px; */
+    
+    
+    /* text-justify: inherit; */
+    
+}
+.maths a{
+    padding-right: 20px;
+    
+    cursor: pointer;
+}
+#spade{
+    width: 1050px;
+    height: 800px;
+    
+}
+body{
+    background-image: url("https://themes.muffingroup.com/be/gym2/wp-content/uploads/2018/05/home_gym2_sectionbgbg1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* width: 1000px; */
+    /* background-position: ; */
+    margin-top: 50px;
+    /* color: #f0582c; */
+    background-color: #f0582c;
+    height: 100px;
+    margin: auto;
+    padding-top: 1px;
+
+}
+.error{
+    position: relative;
+    display: flex;
+
+}
+.maker{
+    position: absolute;
+    left:300px;
+    bottom: 500px;
+    color: white;
+    font-size: xx-large;
+}
+span{
+    padding-left: 0px;
+}
+.changer{
+    padding-top: 70px;
+    /* padding-right: 100px; */
+    
+}
